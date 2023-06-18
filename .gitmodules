@@ -7,3 +7,6 @@
 [submodule "meta-webkit"]
 	path = meta-webkit
 	url = git@github.com:Igalia/meta-webkit.git
+[submodule "meta-openembedded"]
+	path = meta-openembedded
+	url = git://git.openembedded.org/meta-openembedded
