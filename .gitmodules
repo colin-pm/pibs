@@ -4,3 +4,6 @@
 [submodule "meta-raspberrypi"]
 	path = meta-raspberrypi
 	url = git@github.com:agherzan/meta-raspberrypi.git
+[submodule "meta-webkit"]
+	path = meta-webkit
+	url = git@github.com:Igalia/meta-webkit.git
